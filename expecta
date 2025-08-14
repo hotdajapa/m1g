@@ -469,11 +469,11 @@
 			<span style="margin-left:20px;font-family:proximaNovaRegular;font-size:16px;font-weight:400;color:rgba(0,0,0,.25);">(39 disponíveis)</span>
 			<i class="material-icons" style="margin:0 0 0 auto;color:#3483fa;font-size:24px;"></i>
 		</div>
-<div onclick="acessarLink('https://checkout.vendeagora.com/api/public/shopify?product=331896537978&store=3318')" style="margin-top:25px;flex-grow:1;height:48px;background-color:#3483fa;border-radius:6px;display:flex;align-items:center;-webkit-tap-highlight-color:transparent;cursor:pointer;">
+<div onclick="acessarLink('https://checkout.vendeagora.com/api/public/shopify?product=885489171277&store=8854')" style="margin-top:25px;flex-grow:1;height:48px;background-color:#3483fa;border-radius:6px;display:flex;align-items:center;-webkit-tap-highlight-color:transparent;cursor:pointer;">
     <span style="margin:0 auto;font-family:proximaNovaRegular;font-weight:600;font-size:16px;color:#ffffff;">Comprar agora</span>
 </div>
 
-<div onclick="window.location.href='https://checkout.vendeagora.com/api/public/shopify?product=331896537978&store=3318';" style="margin-top:10px;flex-grow:1;height:48px;background-color:rgba(65,137,230,.15);border-radius:6px;display:flex;align-items:center;-webkit-tap-highlight-color:transparent;cursor:pointer;">
+<div onclick="window.location.href='https://checkout.vendeagora.com/api/public/shopify?product=885489171277&store=8854';" style="margin-top:10px;flex-grow:1;height:48px;background-color:rgba(65,137,230,.15);border-radius:6px;display:flex;align-items:center;-webkit-tap-highlight-color:transparent;cursor:pointer;">
     <span style="margin:0 auto;font-family:proximaNovaRegular;font-weight:600;font-size:16px;color:#3483fa;">Adicionar ao carrinho</span>
 </div>
 
@@ -558,7 +558,7 @@
                         <span style="margin-left:10px;font-family:proximaNovaRegular;font-size:14px;color:rgba(0,0,0,.9);">Cor</span>
                     </div>
                     <div style="width:50%;display:flex;align-items:center;height:max-content;">
-                        <span style="margin-left:10px;font-family:proximaNovaRegular;font-size:14px;color:rgba(0,0,0,.9);">Preto</span>
+                        <span style="margin-left:10px;font-family:proximaNovaRegular;font-size:14px;color:rgba(0,0,0,.9);">Branco</span>
                     </div>
                 </div>
 
